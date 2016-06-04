@@ -26,15 +26,15 @@ Code dependencies structure:
 Code bundles structure:
 ```
   dist/js/
-    vendor
+    vendor.js
       webpack_vendor
       vendor1
       vendor2
-    common
+    common.js
       utilA
       utilB
       utilC
-    pageA
-    pageB
-    pageC
+    pageA.js
+    pageB.js
+    pageC.js
 ```
